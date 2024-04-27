@@ -1,3 +1,7 @@
+//NAZARENA CHAPARRO
+//COMISION 2
+//LEGAJO: 91573/6
+
 PImage paisaje;
 
 void setup (){
